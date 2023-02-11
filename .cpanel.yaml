@@ -1,4 +1,4 @@
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/example/public_html/laraveloper.ir/
+    - export DEPLOYPATH=/home/fmmetovg/deployment/laraveloper.ir
     - /bin/cp index.html $DEPLOYPATH
